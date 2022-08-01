@@ -7,12 +7,13 @@
 - 👾 Willing to learn about Game Development.
 - 🤝 Willing to collaborate on open-source projects.
 
+<br>
+
 ## My Favorite Projects
 
 ❤️ Below you'll find the projects that I had a really good time working on. <br>
 🎓 Most projects were made for University courses.
 
-<br>
 
 ### Natural Language Processing
 Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes* game:
@@ -27,6 +28,8 @@ Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes*
 Check out my [Artificial Intelligence][ai project] project, where I worked with **Genetic Algorithms**. The goal was to find any solution for the following **CSP** (Constraint Satisfaction Problem): ***"Every box should be coloured individually using either Blue, Red, Green or Yellow. No box can have the same colour as its neighbours."***
 
 ![csp solver][csp]
+
+<br>
 
 ## Contact me:
 [<img align="left" alt="LinkedIn" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />][linkedin]
