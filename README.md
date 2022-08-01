@@ -14,5 +14,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/georgios-seimenis-0ab84923a/
-[gmail]: giorgosseimenis@gmail.com
-[hotmail]: giorgos_seimenis@hotmail.com
+[gmail]: mailto:giorgosseimenis@gmail.com
+[hotmail]: mailto:giorgos_seimenis@hotmail.com
