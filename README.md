@@ -9,6 +9,14 @@
 
 <br>
 
+## Currently working on:
+- 🎮 Video Game Projects
+- 📱 Android Application Development
+- 🌐 MVC Web Applications
+- 🎆 Image Analysis
+
+<br>
+
 ## My Favorite Projects
 
 ❤️ Below you'll find the projects that I had a really good time working on. <br>
