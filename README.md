@@ -32,6 +32,15 @@ Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes*
 
 <br>
 
+### Game Jam
+Check out the [Video Game][ggj repository link] we made with my team as an entry to the [Global Game Jam of Athens][ggj athens]. The theme was "Roots". In this video game, the goal is to **find the root of your family tree**. With several possible suspects, you have to collect the right clues and see who fits better with the backstory of your root!
+
+The game is called "Paternitree" and is [available for download][ggj download link]. Feel free to give us feedback!
+
+![paternitree][paternitree icon]
+
+<br>
+
 ### Artificial Intelligence 
 Check out my [Artificial Intelligence][ai project] project, where I worked with **Genetic Algorithms**. The goal was to find any solution for the following **CSP** (Constraint Satisfaction Problem): ***"Every box should be coloured individually using either Blue, Red, Green or Yellow. No box can have the same colour as its neighbours."***
 
@@ -52,3 +61,7 @@ Check out my [Artificial Intelligence][ai project] project, where I worked with 
 [ktane bot manual]: https://github.com/GeorgeMC2610/KTANE-Bot#readme
 [ai project]: https://github.com/GeorgeMC2610/Artificial-Intelligence
 [csp]: https://github.com/GeorgeMC2610/Artificial-Intelligence/blob/master/Exercise%201/schema2.png
+[ggj repository link]: https://github.com/Dimitris-Provatas/GGJ_2023
+[ggj athens]: https://www.globalgamejamathens.gr/
+[ggj download link]: https://ggj.s3.amazonaws.com/games/2023/02/276412/exec/dEYkM/Paternitree_Executable.zip
+[paternitree icon]: https://camo.githubusercontent.com/be9fc0d72c0543538f9e1c1d8401ef85ccee1c5f4892eda9000a6b35762bbe74/68747470733a2f2f676c6f62616c67616d656a616d2e6f72672f616d617a6f6e73332f696d6167652d646572697661746976652f67676a2f7374796c65732f67616d655f736964656261725f5f6e6f726d616c2f66656174757265645f696d6167652f323032332f30322f3237363431322f6d656e755f696d6167652e706e673f69746f6b3d7a4547312d3935502674696d657374616d703d31363735363132313236
