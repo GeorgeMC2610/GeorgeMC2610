@@ -13,7 +13,6 @@
 - 🎮 Video Game Projects
 - 📱 Android Application Development
 - 🌐 MVC Web Applications
-- 🎆 Image Analysis
 
 <br>
 
