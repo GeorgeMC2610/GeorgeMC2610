@@ -36,7 +36,7 @@ Check out the [Video Game][ggj repository link] we made with my team as an entry
 
 The game is called "Paternitree" and is [available for download][ggj download link]. Feel free to give us feedback!
 
-I am currently reworking this game in my [GitLab Account][]. Check out the repository and [download the reworked version of the game][]!
+I am currently reworking this game in my [GitLab Account][paternitree gitlab]. Check out the repository and [download the reworked version of the game][reworked paternitree download]!
 
 ![paternitree][paternitree icon]
 
