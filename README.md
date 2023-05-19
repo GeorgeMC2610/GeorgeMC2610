@@ -13,6 +13,7 @@
 - 🎮 Video Game Projects
 - 📱 Android Application Development
 - 🌐 MVC Web Applications
+- 🔉 Voice and Audio Signal Processing.
 
 <br>
 
