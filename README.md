@@ -14,6 +14,7 @@
 - 📱 Android Application Development
 - 🌐 MVC Web Applications
 - 🔉 Voice and Audio Signal Processing.
+- 📝 My Thesis, which is based on Game Development.
 
 <br>
 
