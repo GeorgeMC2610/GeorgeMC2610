@@ -46,8 +46,14 @@ The game is called "Paternitree" and is [available for download][ggj download li
 
 ### ML-Agents
 Within the course of "Intelligent Agents", I was able to make with my team a really interesting **NPC kart that goes on its own!**
+
 <img alt="kart-ia" width="32%" src="https://github.com/GeorgeMC2610/GeorgeMC2610/assets/55163372/ed111cd0-bfaa-4370-88d0-4469dfc5d70f" />
 
+The kart is able to accelerate, steer and jump obstacles. Using the **Unity ML-Agents package**, we were able to train the kart to completely learn a circuit we created (The red circle is the start and the blue circle is the end).
+
+<img alt="circuit-ia" width="42%" src="https://github.com/GeorgeMC2610/GeorgeMC2610/assets/55163372/8ad8b315-02e8-4f29-87a7-44435bb47716" />
+
+You can [download](https://gitlab.com/GeorgeMC2610/intelligent-agents/-/releases) and see it by yourself, by playing the Build! You can also check out the rest of the [repository on GitLab](https://gitlab.com/GeorgeMC2610/intelligent-agents/), if you want to contribute!
 
 <br>
 
