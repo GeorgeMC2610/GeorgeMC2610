@@ -83,4 +83,3 @@ Check out my [Artificial Intelligence][ai project] project, where I worked with 
 [paternitree icon]: https://camo.githubusercontent.com/be9fc0d72c0543538f9e1c1d8401ef85ccee1c5f4892eda9000a6b35762bbe74/68747470733a2f2f676c6f62616c67616d656a616d2e6f72672f616d617a6f6e73332f696d6167652d646572697661746976652f67676a2f7374796c65732f67616d655f736964656261725f5f6e6f726d616c2f66656174757265645f696d6167652f323032332f30322f3237363431322f6d656e755f696d6167652e706e673f69746f6b3d7a4547312d3935502674696d657374616d703d31363735363132313236
 [paternitree gitlab]: https://gitlab.com/GeorgeMC2610/paternitree
 [reworked paternitree download]: https://gitlab.com/GeorgeMC2610/paternitree/-/releases
-[ia-photo-kart]: 
