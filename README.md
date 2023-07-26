@@ -18,13 +18,14 @@
 
 <br>
 
-## My Favorite Projects
+# My Favorite Projects
 
 ❤️ Below you'll find the projects that I had a really good time working on. <br>
-🎓 Most projects were made for University courses.
+🎓 Most projects were made for University courses. <br>
+🖥️ All of the following projects are **open-source** and everyone is welcome to contribute on debugging or adding features.
 
 
-### Natural Language Processing
+## Natural Language Processing
 Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes* game:
 + 💣 Disarm any bomb using my BOT!
 + 🗣️ Speak to the BOT, in order to get the right answers.
@@ -33,7 +34,27 @@ Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes*
 
 <br>
 
-### Game Jam
+## BenzinApp
+I made an app which keeps track of your **car statistics**! After you create an account, every time you fully refill your car (only applies to cars with internal combustion engines), input the:
++ Cost of the refill.
++ Kilometers travelled.
++ The amount of liters.
++ Additional information (e.g. usage, fuel type, date, etc.)
+
+Then, the app will **automatically** calculate the car's statistics for you! Not only does it calculate the consumption based on the data you enter, but also displays a graph that depicts the car's statistics overtime. More specifically it calculates:
++ Liter of petrol/diesel per 100 kilometers.
++ Kilometers per Liter of petrol/diesel.
++ Cost per kilometer.
+
+For all of the above, the app can draw a graph for you.
+
+<img src="https://github.com/GeorgeMC2610/GeorgeMC2610/assets/55163372/115b313f-53f4-4a7e-b0a3-0f8e737a5587" alt="BenzinappImage1" width="25%">
+
+You can <a href="https://github.com/GeorgeMC2610/BenzinApp/releases">download the latest release</a>, or you can contribute to the project yourself!
+
+<br>
+
+## Game Jam
 Check out the [Video Game][ggj repository link] we made with my team as an entry to the [Global Game Jam of Athens][ggj athens]. The theme was "Roots". In this video game, the goal is to **find the root of your family tree**. With several possible suspects, you have to collect the right clues and see who fits better with the backstory of your root!
 
 The game is called "Paternitree" and is [available for download][ggj download link]. Feel free to give us feedback!
@@ -44,7 +65,7 @@ The game is called "Paternitree" and is [available for download][ggj download li
 
 <br>
 
-### ML-Agents
+## ML-Agents
 Within the course of "Intelligent Agents", I was able to make with my team a really interesting **NPC kart that goes on its own!**
 
 <img alt="kart-ia" width="32%" src="https://github.com/GeorgeMC2610/GeorgeMC2610/assets/55163372/ed111cd0-bfaa-4370-88d0-4469dfc5d70f" />
@@ -57,14 +78,14 @@ You can [download](https://gitlab.com/GeorgeMC2610/intelligent-agents/-/releases
 
 <br>
 
-### Artificial Intelligence 
+## Artificial Intelligence 
 Check out my [Artificial Intelligence][ai project] project, where I worked with **Genetic Algorithms**. The goal was to find any solution for the following **CSP** (Constraint Satisfaction Problem): ***"Every box should be coloured individually using either Blue, Red, Green or Yellow. No box can have the same colour as its neighbours."***
 
 ![csp solver][csp]
 
 <br>
 
-## Contact me:
+# Contact me:
 [<img align="left" alt="LinkedIn" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />][linkedin]
 [<img align="left" alt="gmail" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" alt="outlook" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />][hotmail]
