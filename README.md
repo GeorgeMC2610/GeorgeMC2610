@@ -24,6 +24,7 @@
 🎓 Most projects were made for University courses. <br>
 🖥️ All of the following projects are **open-source** and everyone is welcome to contribute on debugging or adding features.
 
+<br> <br>
 
 ## Natural Language Processing
 Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes* game:
