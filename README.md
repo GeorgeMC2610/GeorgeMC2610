@@ -32,6 +32,8 @@ Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes*
 + 🔊 The BOT will **tell you**, using built-in voice, how to disarm the bomb!
 + 🗒️ Read the [BOT Manual][ktane bot manual], in order to use it correctly!
 
+Special thanks to <a href="https://github.com/GeorgeMC2610/KTANE-Bot/forks">the people who contributed on improving this Project</a>, after I was done making it, by forking it and adding their own "flavor" to it!
+
 <br>
 
 ## BenzinApp
