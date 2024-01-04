@@ -1,20 +1,19 @@
 ### Hi there! I'm George. 👋
 
 ## About me:
-- 🎓 4th Year Student in Department of Informatics, University of Piraeus.
+- 🎓 5th Year Student in Department of Informatics, University of Piraeus.
 - 💻 Passionate for Application/Software development and coding.
-- ⭐ I really like Object-Oriented Programming. Most of my projects are written in OOP languages, such as C# and Python.
-- 👾 Willing to learn about Game Development.
-- 🤝 Willing to collaborate on open-source projects.
+- 🔧 Backend Developer with experience in MVC architecture.
+- 📱 Mobile App Developer with experience in Android Studio (Currently my Thesis).
 
 <br>
 
-## Currently working on:
-- 🎮 Video Game Projects
-- 📱 Android Application Development
-- 🌐 MVC Web Applications
-- 🔉 Voice and Audio Signal Processing.
-- 📝 My Thesis, which is based on Game Development.
+## Have worked with:
+- 🖥️ ASP.NET (Web/Desktop applications)
+- 🌐 Ruby on Rails
+- 📲 Android Studio
+- 🎮 Unity 3D
+- 🔗 Version Control Systems
 
 <br>
 
@@ -38,18 +37,16 @@ Special thanks to <a href="https://github.com/GeorgeMC2610/KTANE-Bot/forks">the 
 <br>
 
 ## BenzinApp
-I made an app which keeps track of your **car statistics**! After you create an account, every time you fully refill your car (only applies to cars with internal combustion engines), input the:
-+ Cost of the refill.
-+ Kilometers travelled.
-+ The amount of liters.
-+ Additional information (e.g. usage, fuel type, date, etc.)
+My Thesis. This app is currently **under development** and there are a lot of **features** that will soon be added! <br>
+In the present stage, the app is capable of **keeping track of fuel fill records** and **displaying/visualizing its statistics**! Additionally, it can **save and display malfunctions** and **past services**.
 
-Then, the app will **automatically** calculate the car's statistics for you! Not only does it calculate the consumption based on the data you enter, but also displays a graph that depicts the car's statistics overtime. More specifically it calculates:
-+ Liter of petrol/diesel per 100 kilometers.
-+ Kilometers per Liter of petrol/diesel.
-+ Cost per kilometer.
+Automatically calculates:
++ Liters per 100 kilometers
++ Kilometers per Liter
++ Cost per kilometer
 
-For all of the above, the app can draw a graph for you.
+
+
 
 <img src="https://github.com/GeorgeMC2610/GeorgeMC2610/assets/55163372/115b313f-53f4-4a7e-b0a3-0f8e737a5587" alt="BenzinappImage1" width="25%">
 
