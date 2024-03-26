@@ -1,10 +1,11 @@
 ### Hi there! I'm George. 👋
 
 ## About me:
-- 🎓 5th Year Student in Department of Informatics, University of Piraeus.
+- 💼 Freelancer, available to work on projects.
+- 🎓 5th Year Student in Department of Informatics, University of Piraeus. Graduation in progress.
 - 💻 Passionate for Application/Software development and coding.
 - 🔧 Backend Developer with experience in MVC architecture.
-- 📱 Mobile App Developer with experience in Android Studio (Currently my Thesis).
+- 📱 Mobile App Developer with experience in Android Studio.
 
 <br>
 
@@ -85,10 +86,11 @@ Check out my [Artificial Intelligence][ai project] project, where I worked with 
 
 <br>
 
-# Contact me:
+# Find me:
 [<img align="left" alt="LinkedIn" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />][linkedin]
 [<img align="left" alt="gmail" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" alt="outlook" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />][hotmail]
+[<img align="left" alt="outlook" width="32px" src="https://scontent.fath2-1.fna.fbcdn.net/v/t39.30808-6/352686973_258970396725504_9028675634607478801_n.png?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF59YetC_WxnKqTbz_LzabxDyn4J_06kCoPKfgn_TqQKhIskK1FQXKp-clPOwqQxW8&_nc_ohc=MBjnA0SJzecAX8yffYF&_nc_ht=scontent.fath2-1.fna&oh=00_AfAmMk1inOYuzmBtM0Owhu6bL7tfSmsjPFVOk_gs7zqttg&oe=6607D3C3">][upwork]
 
 
 [linkedin]: https://www.linkedin.com/in/georgios-seimenis-0ab84923a/
@@ -104,3 +106,4 @@ Check out my [Artificial Intelligence][ai project] project, where I worked with 
 [paternitree icon]: https://camo.githubusercontent.com/be9fc0d72c0543538f9e1c1d8401ef85ccee1c5f4892eda9000a6b35762bbe74/68747470733a2f2f676c6f62616c67616d656a616d2e6f72672f616d617a6f6e73332f696d6167652d646572697661746976652f67676a2f7374796c65732f67616d655f736964656261725f5f6e6f726d616c2f66656174757265645f696d6167652f323032332f30322f3237363431322f6d656e755f696d6167652e706e673f69746f6b3d7a4547312d3935502674696d657374616d703d31363735363132313236
 [paternitree gitlab]: https://gitlab.com/GeorgeMC2610/paternitree
 [reworked paternitree download]: https://gitlab.com/GeorgeMC2610/paternitree/-/releases
+[upwork]: https://www.upwork.com/freelancers/~015b3d31f57f3075e6
