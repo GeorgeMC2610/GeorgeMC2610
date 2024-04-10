@@ -2,7 +2,7 @@
 
 ## About me:
 - 💼 Freelancer, available to work on projects.
-- 🎓 5th Year Student in Department of Informatics, University of Piraeus. Graduation in progress.
+- 🎓 Computer Science Graduate (University of Piraeus)
 - 💻 Passionate for Application/Software development and coding.
 - 🔧 Backend Developer with experience in MVC architecture.
 - 📱 Mobile App Developer with experience in Android Studio.
