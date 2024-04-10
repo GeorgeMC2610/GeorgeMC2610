@@ -90,7 +90,7 @@ Check out my [Artificial Intelligence][ai project] project, where I worked with 
 [<img align="left" alt="LinkedIn" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />][linkedin]
 [<img align="left" alt="gmail" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" alt="outlook" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />][hotmail]
-[<img align="left" alt="outlook" width="32px" src="https://scontent.fath2-1.fna.fbcdn.net/v/t39.30808-6/352686973_258970396725504_9028675634607478801_n.png?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF59YetC_WxnKqTbz_LzabxDyn4J_06kCoPKfgn_TqQKhIskK1FQXKp-clPOwqQxW8&_nc_ohc=MBjnA0SJzecAX8yffYF&_nc_ht=scontent.fath2-1.fna&oh=00_AfAmMk1inOYuzmBtM0Owhu6bL7tfSmsjPFVOk_gs7zqttg&oe=6607D3C3">][upwork]
+[<img align="left" alt="outlook" width="32px" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg">][upwork]
 
 
 [linkedin]: https://www.linkedin.com/in/georgios-seimenis-0ab84923a/
