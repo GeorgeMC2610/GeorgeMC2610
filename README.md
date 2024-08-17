@@ -4,7 +4,7 @@
 - 💼 Freelancer, available to work on projects.
 - 🎓 Computer Science Graduate (University of Piraeus)
 - 💻 Passionate for Application/Software development and coding.
-- 🔧 Backend Developer with experience in MVC architecture.
+- 🔧 Full-Stack Web Dev with experience in MVC architecture.
 - 📱 Mobile App Developer with experience in Android Studio.
 
 <br>
@@ -38,8 +38,9 @@ Special thanks to <a href="https://github.com/GeorgeMC2610/KTANE-Bot/forks">the 
 <br>
 
 ## BenzinApp
-My Thesis. This app is currently **under development** and there are a lot of **features** that will soon be added! <br>
+A **Thesis Project** that I'm further adding features to it! This app is currently **under development** and there are a lot of **features** that will soon be added. <br>
 In the present stage, the app is capable of **keeping track of fuel fill records** and **displaying/visualizing its statistics**! Additionally, it can **save and display malfunctions** and **past services**.
+But most importantly, **it can pre-calculate trip costs based on your car's consumption!**
 
 Automatically calculates:
 + Liters per 100 kilometers
@@ -49,7 +50,7 @@ Automatically calculates:
 
 
 
-<img src="https://github.com/GeorgeMC2610/GeorgeMC2610/assets/55163372/115b313f-53f4-4a7e-b0a3-0f8e737a5587" alt="BenzinappImage1" width="25%">
+<img src="https://github.com/user-attachments/assets/e6f865ac-ce2c-4475-8e6b-69b4e8f2e40f" alt="BenzinappImage1" width="25%">
 
 You can <a href="https://github.com/GeorgeMC2610/BenzinApp/releases">download the latest release</a>, or you can contribute to the project yourself!
 
