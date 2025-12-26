@@ -4,17 +4,17 @@
 - 💼 Freelancer, available to work on projects.
 - 🎓 Computer Science Graduate (University of Piraeus)
 - 💻 Passionate for Application/Software development and coding.
-- 🔧 Full-Stack Web Dev with experience in MVC architecture.
+- 🔧 Full-Stack Web Dev with experience in MVC architecture and various Front-End Frameworks.
 - 📱 Mobile App Developer with experience in Android Studio.
 
 <br>
 
 ## Have worked with:
-- 🖥️ ASP.NET (Web/Desktop applications)
-- 🌐 Ruby on Rails
-- 📲 Android Studio
-- 🎮 Unity 3D
-- 🔗 Version Control Systems
+- <img align="left" alt="Ruby" width="23px" src="https://www.nicepng.com/png/full/749-7492440_ruby-on-rails-logo.png" />Ruby on Rails
+- <img align="left" alt="Vue" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />Vue.JS
+- <img align="left" alt="React" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />React.JS
+- <img align="left" alt="Flutter" width="23px" src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" />Flutter
+- <img align="left" alt="Ruby" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />Version Control Systems
 
 <br>
 
@@ -90,13 +90,11 @@ Check out my [Artificial Intelligence][ai project] project, where I worked with 
 # Find me:
 [<img align="left" alt="LinkedIn" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />][linkedin]
 [<img align="left" alt="gmail" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />][gmail]
-[<img align="left" alt="outlook" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />][hotmail]
 [<img align="left" alt="outlook" width="32px" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg">][upwork]
 
 
 [linkedin]: https://www.linkedin.com/in/georgios-seimenis-0ab84923a/
 [gmail]: mailto:giorgosseimenis@gmail.com
-[hotmail]: mailto:giorgos_seimenis@hotmail.com
 [ktane bot]: https://github.com/GeorgeMC2610/KTANE-Bot
 [ktane bot manual]: https://github.com/GeorgeMC2610/KTANE-Bot#readme
 [ai project]: https://github.com/GeorgeMC2610/Artificial-Intelligence
