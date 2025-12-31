@@ -11,7 +11,7 @@
 
 ## Have worked with:
 - <img align="left" alt="Ruby" width="23px" src="https://www.nicepng.com/png/full/749-7492440_ruby-on-rails-logo.png" />Ruby on Rails
-- <img align="left" alt="Vue" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />Vue.JS
+- <img align="left" alt="Vue" width="23px" src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" />Vue.JS
 - <img align="left" alt="React" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />React.JS
 - <img align="left" alt="Flutter" width="23px" src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" />Flutter
 - <img align="left" alt="Ruby" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />Version Control Systems
