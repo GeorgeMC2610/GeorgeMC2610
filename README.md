@@ -1,13 +1,10 @@
 ### Hi there! I'm George. 👋
 
 ## About me:
-- 💼 Freelancer, available to work on projects.
+- 💼 Currently working @ CERTH
 - 🎓 Computer Science Graduate (University of Piraeus)
+- 🔧 Full-Stack Web & Mobile Developer
 - 💻 Passionate for Application/Software development and coding.
-- 🔧 Full-Stack Web Dev with experience in MVC architecture and various Front-End Frameworks.
-- 📱 Mobile App Developer with experience in Android Studio.
-
-<br>
 
 ## Have worked with:
 - <img align="left" alt="Ruby" width="23px" src="https://www.nicepng.com/png/full/749-7492440_ruby-on-rails-logo.png" />Ruby on Rails
@@ -23,8 +20,6 @@
 ❤️ Below you'll find the projects that I had a really good time working on. <br>
 🎓 Most projects were made for University courses. <br>
 🖥️ All of the following projects are **open-source** and everyone is welcome to contribute on debugging or adding features.
-
-<br> <br>
 
 ## Natural Language Processing
 Check out the [BOT][ktane bot] I made for the *Keep Talking and Nobody Explodes* game:
