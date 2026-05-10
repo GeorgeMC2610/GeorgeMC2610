@@ -9,10 +9,9 @@
 ## Have worked with:
 - <img align="left" alt="Ruby" width="23px" src="https://www.nicepng.com/png/full/749-7492440_ruby-on-rails-logo.png" />Ruby on Rails
 - <img align="left" alt="Vue" width="23px" src="https://images.icon-icons.com/2699/PNG/512/vuejs_logo_icon_168246.png" />Vue.JS
-- <img align="left" alt="React" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />React.JS
 - <img align="left" alt="Flutter" width="23px" src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" />Flutter
-- <img align="left" alt="Ruby" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />Version Control Systems
-
+- <img align="left" alt="React" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />React.JS
+- <img align="left" alt="Ruby" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" />Version Control Systems
 <br>
 
 # My Favorite Projects
@@ -33,32 +32,18 @@ Special thanks to <a href="https://github.com/GeorgeMC2610/KTANE-Bot/forks">the 
 <br>
 
 ## BenzinApp
-A **Thesis Project** that I'm further adding features to it! This app is currently **under development** and there are a lot of **features** that will soon be added. <br>
-In the present stage, the app is capable of **keeping track of fuel fill records** and **displaying/visualizing its statistics**! Additionally, it can **save and display malfunctions** and **past services**.
-But most importantly, **it can pre-calculate trip costs based on your car's consumption!**
+My old **thesis project** which I published to **[Google Play](https://play.google.com/store/apps/details?id=com.georgemc2610.benzinapp.xplatform.benzinapp)** and **[App Store](https://apps.apple.com/gr/app/benzinapp/id6757866897)**! Written in Dart (Flutter), I managed to complete most of the features I wanted, and made it public!
+A **Thesis Project** that I'm further adding features to it! <br>
 
-Automatically calculates:
+This app is a great stats tracker for your cars, which can take in Fuel Fill Records and then automatically calculates:
 + Liters per 100 kilometers
 + Kilometers per Liter
 + Cost per kilometer
 
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/0183bc18-24ff-402d-9642-292c99c50e94" />
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/a7687228-3821-4adf-82ee-08df09b3bbc6" />
 
-
-
-<img src="https://github.com/user-attachments/assets/e6f865ac-ce2c-4475-8e6b-69b4e8f2e40f" alt="BenzinappImage1" width="25%">
-
-You can <a href="https://github.com/GeorgeMC2610/BenzinApp/releases">download the latest release</a>, or you can contribute to the project yourself!
-
-<br>
-
-## Game Jam
-Check out the [Video Game][ggj repository link] we made with my team as an entry to the [Global Game Jam of Athens][ggj athens]. The theme was "Roots". In this video game, the goal is to **find the root of your family tree**. With several possible suspects, you have to collect the right clues and see who fits better with the backstory of your root!
-
-The game is called "Paternitree" and is [available for download][ggj download link]. Feel free to give us feedback!
-
-**I am currently reworking this game** in my [GitLab Account][paternitree gitlab]. Check out the repository and [download the reworked version of the game][reworked paternitree download]!
-
-![paternitree][paternitree icon]
+Download it on [Google Play](https://play.google.com/store/apps/details?id=com.georgemc2610.benzinapp.xplatform.benzinapp) or the [App Store](https://apps.apple.com/gr/app/benzinapp/id6757866897) and test it out yourself!
 
 <br>
 
@@ -94,10 +79,4 @@ Check out my [Artificial Intelligence][ai project] project, where I worked with 
 [ktane bot manual]: https://github.com/GeorgeMC2610/KTANE-Bot#readme
 [ai project]: https://github.com/GeorgeMC2610/Artificial-Intelligence
 [csp]: https://github.com/GeorgeMC2610/Artificial-Intelligence/blob/master/Exercise%201/schema2.png
-[ggj repository link]: https://github.com/Dimitris-Provatas/GGJ_2023
-[ggj athens]: https://www.globalgamejamathens.gr/
-[ggj download link]: https://ggj.s3.amazonaws.com/games/2023/02/276412/exec/dEYkM/Paternitree_Executable.zip
-[paternitree icon]: https://camo.githubusercontent.com/be9fc0d72c0543538f9e1c1d8401ef85ccee1c5f4892eda9000a6b35762bbe74/68747470733a2f2f676c6f62616c67616d656a616d2e6f72672f616d617a6f6e73332f696d6167652d646572697661746976652f67676a2f7374796c65732f67616d655f736964656261725f5f6e6f726d616c2f66656174757265645f696d6167652f323032332f30322f3237363431322f6d656e755f696d6167652e706e673f69746f6b3d7a4547312d3935502674696d657374616d703d31363735363132313236
-[paternitree gitlab]: https://gitlab.com/GeorgeMC2610/paternitree
-[reworked paternitree download]: https://gitlab.com/GeorgeMC2610/paternitree/-/releases
 [upwork]: https://www.upwork.com/freelancers/~015b3d31f57f3075e6
